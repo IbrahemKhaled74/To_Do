@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_color">@color/white</color>
+    <color name="back_card">#141922</color>
+    <color name="date">@color/white</color>
+    <color name="blue_900">#41526E</color>
+    <color name="mode">#5D9CEC</color>
+
+
+
+
+</resources>

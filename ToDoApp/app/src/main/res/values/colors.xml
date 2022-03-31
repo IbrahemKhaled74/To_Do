@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_200">#5D9CEC</color>
+    <color name="blue_500">#4272AF</color>
+    <color name="blue_700">#27466E</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#A9A9A9</color>
+    <color name="green">#61E757</color>
+    <color name="text_color">@color/black</color>
+    <color name="back_card">@color/white</color>
+    <color name="date">@color/grey</color>
+    <color name="blue_900">#32588A</color>
+    <color name="mode">#5D9CEC</color>
+
+
+
+</resources>
