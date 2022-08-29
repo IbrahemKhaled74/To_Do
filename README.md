@@ -3,8 +3,9 @@
 Please ⭐️ this repo and share it with others
 
 # Description
-This project is an application for time management it contains some basic features such as adding tasks with 
-dates, deleting tasks, and updating tasks, and as well as it contains two modes like light mode and dark mode.
+TThis project is an application for time management Using Room
+it contains some basic features such as adding tasks with dates, deleting tasks, and updating tasks, 
+and as well as it contains two modes like light mode and dark mode
 
 # Screenshots
 Light Mode
@@ -39,7 +40,7 @@ Dark Mode
 </div>
 
 # Video
-https://user-images.githubusercontent.com/101200745/187305279-c75611db-e9f2-4ebf-9dc0-bf7612b25546.mp4
+https://user-images.githubusercontent.com/101200745/187306654-2fd562f9-7d58-4552-8ce6-a216d110e9fd.mp4
 
 # Tools
 * [Kotlin](https://kotlinlang.org/) 
