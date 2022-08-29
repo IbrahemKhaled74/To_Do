@@ -1,4 +1,4 @@
-# ToDo_App_Kotlin
+# ToDo_App
 
 Please ⭐️ this repo and share it with others
 
@@ -39,7 +39,7 @@ Dark Mode
 </div>
 
 # Video
-https://user-images.githubusercontent.com/80880411/187100150-43d89bd8-484e-42e9-ac70-7641c3367fd0.mp4
+https://user-images.githubusercontent.com/101200745/187305279-c75611db-e9f2-4ebf-9dc0-bf7612b25546.mp4
 
 # Tools
 * [Kotlin](https://kotlinlang.org/) 
