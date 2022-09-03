@@ -3,7 +3,7 @@
 Please ⭐️ this repo and share it with others.
 
 # Description
-TThis project is an application for time management Using Room
+This project is an application for time management Using Room
 it contains some basic features such as adding tasks with dates, deleting tasks, and updating tasks, 
 and as well as it contains two modes like light mode and dark mode
 
